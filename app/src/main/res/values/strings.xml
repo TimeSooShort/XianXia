@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">XianXia</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">声明</string>
+    <string name="wrong_process">发生一些错误！</string>
+    <string name="pinglun">评论</string>
+    <string name="zan">赞</string>
+    <string name="title_activity_reader">阅读</string>
+    <string name="copy_right">本App所使用的所有API均由 知乎（Zhihu.Inc）提供,本人仅以学习使用</string>
+    <string name="dialog_positive">确定</string>
+    <string name="dialog_negative">取消</string>
+    <string name="no_network">当前没有网络。。。。</string>
+    <string name="go_to_set">去设置</string>
+</resources>
